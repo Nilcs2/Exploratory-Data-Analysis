@@ -1,0 +1,11 @@
+Titanic Dataset EDA report
+1. Overview
+    - Dataset containes 891 rows and 12 columns.
+    - Missing values handled for "Age"(filled with median) and "Embarked"(filled with mode).
+2. Key Insights:
+    - Survival rates are synonymous with the class of the passenger(higher the class higher the chance of survival). Example 1st class passengers had more than 60% survival rate and the 3rd class passengers had less than 30% survival rate.
+    - Majority of passengers are aged between 20-40 years.
+    - A positive correlation exists between fare and survival.
+3. Visual Insights:
+    -Screenshots
+    
